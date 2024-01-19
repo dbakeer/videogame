@@ -38,7 +38,6 @@ p {
   width: 30%;
   margin: 0 auto;
   margin-top: 2em;
-  overflow: hidden;
 }
 
 textarea {
@@ -68,3 +67,7 @@ button {
 }
 
 #text-input { display:none; }
+
+.text-body {
+  overflow: hidden;
+}
